@@ -3,10 +3,11 @@ Suresh Ravuri
 CMPE 255: Data Mining
 
 This assignment taught us the beginning of data science. We learning about KDD and the iterative approach that it can take. We also learning about the various stages of the data science process,
-and the different stages that are required (for example, data cleaning, data understanding, data visualization, etc.)
+and the different stages that are required (for example, Business Understanding, Data Understanding, Data Preparation, Data Analysis, Data Modeling, Model Evaluation & Model Deployment.)
 
 Please see below for a list of the files and their associated descriptions:
-assignment_01/Basic Webpage: This is an application which was written by gpt-engineer. I used the VS Code "Copilot Chat" extension to refactor the code, create functions and code, write unit tests and create another application. 
+Assignment_01/LoginPageTutorial: This is an application which was written by Gpt-Engineer. I used the VS Code "Copilot Chat" extension to refactor the code, create functions and code, write unit tests and create another application. 
+
 
 
 
