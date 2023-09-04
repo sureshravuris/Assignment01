@@ -1,0 +1,54 @@
+Based on the requirements, the following core classes, functions, and methods will be necessary:
+
+1. `index.html`: The main HTML file that represents the website page.
+2. `styles.css`: The CSS file to style the elements on the page.
+3. `script.js`: The JavaScript file to handle button click event and redirection.
+
+Now, let's proceed with the implementation.
+
+index.html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1 id="heading">Heading Text</h1>
+    <button id="subscribeButton">Subscribe</button>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+styles.css
+```css
+body {
+    background-color: white;
+}
+
+#heading {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+#subscribeButton {
+    display: block;
+    margin: 0 auto;
+    background-color: yellow;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+```
+
+script.js
+```javascript
+document.getElementById("subscribeButton").addEventListener("click", function() {
+    // Redirect to the subscription form or confirmation page
+    window.location.href = "subscription.html";
+});
+```
+
+This implementation assumes that there is a separate `subscription.html` file that represents the subscription form or confirmation page.
