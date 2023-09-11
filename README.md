@@ -9,6 +9,8 @@ Please see below for a list of the files and their associated descriptions:
 Assignment_01/LoginPageTutorial: This is an application which was written by Gpt-Engineer. I used the VS Code "Copilot Chat" extension to refactor the code, create functions and code, write unit tests and create another application. 
 
 
+**Medium Article:** https://medium.com/@sureshravuri07/analyzing-us-inflation-rates-a-comprehensive-data-science-walkthrough-using-crisp-dm-1f297c6842b5
+
 
 
 References:
