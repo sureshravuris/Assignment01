@@ -17,8 +17,7 @@ Assignment_01/LoginPageTutorial: This is an application which was written by Gpt
 
 
 
-
-References:
+**References:**
 https://code.visualstudio.com/docs/editor/artificial-intelligence#_chat-view
 https://artificialcorner.com/gpt-engineer-generate-an-entire-codebase-with-1-prompt-7e98ca368410
 https://ecoagi.ai/topics/ChatGPT/gpt-engineer#run-gpt-engineer-projects-in-vscode   
